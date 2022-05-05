@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { MongoClient } from "mongodb";
-import Card from "./Components/Card";
-import SearchField from "./Components/SearchField.jsx";
+import Card from "../Components/Card";
+import SearchField from "../Components/SearchField.jsx";
 import { Pagination } from "@mui/material";
 
 /*___________________________________________________________________*/
